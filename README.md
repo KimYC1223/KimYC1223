@@ -14,5 +14,5 @@
 
 <div align = "center">
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimYC1223.github.io/)](https://KimYC1223.github.io/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kimyc1223)](https://www.facebook.com/kimyc1223) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyc1223@gmail.com)](mailto:kimyc1223@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimYC1223.github.io/)](https://KimYC1223.github.io/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kimyc1223)](https://www.facebook.com/profile.php?id=100000498178589) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyc1223@gmail.com)](mailto:kimyc1223@gmail.com)
 </div>
