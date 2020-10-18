@@ -14,7 +14,4 @@
 
 ### Interest
 
-- Unity project
-- Machine learning
-- Embedded system
-- Dependable computing
+- Unity project / Machine learning / Embedded system / Dependable computing
