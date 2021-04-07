@@ -1,5 +1,11 @@
 <div align = "center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimYC1223%2Fhit-counter&count_bg=%23D9D9D9&title_bg=%23379CFF&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a>
+  
+  
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kimyc1223&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyc1223&amp;layout=compact&amp;hide=Visual%20Basic)
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kimyc1223)
+
 </div>
 
 ### Embedded Software Assistant Researcher
