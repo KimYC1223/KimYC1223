@@ -12,6 +12,7 @@
 
 ### Interest
 
+- Web frontend / JS / CSS
 - Machine learning / Embedded system / Dependable computing
 - Unity Project / Metaverse / DigitalTwin 
 
