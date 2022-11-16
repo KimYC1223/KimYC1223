@@ -1,4 +1,4 @@
-| [![Github Stats](https://github-readme-stats.vercel.app/api?username=kimyc1223&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyc1223&amp;layout=compact&amp;hide=Visual%20Basic) |
+| [![Github Stats](https://github-readme-stats.vercel.app/api?username=kimyc1223&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyc1223&amp;layout=compact&amp;theme&amp=dark;hide=Visual%20Basic) |
 |:---:|:---:|
 
 ## KimYoungChan : Assistant Researcher
