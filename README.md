@@ -1,4 +1,4 @@
-| [![Github Stats](https://github-readme-stats.vercel.app/api?username=kimyc1223&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyc1223&amp;layout=compact&amp;theme&amp=dark;hide=Visual%20Basic) |
+| [![Github Stats](https://github-readme-stats.vercel.app/api?username=kimyc1223&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyc1223&amp;layout=compact&amp;theme=vue-dark&amp;) |
 |:---:|:---:|
 
 ## KimYoungChan : Assistant Researcher
@@ -12,12 +12,11 @@
 
 ### Interest
 
-- Web frontend / JS / CSS
+- Unity project & Custom Editor
+- Metaverse / DigitalTwin 
 - Machine learning / Embedded system / Dependable computing
-- Unity Project / Metaverse / DigitalTwin 
+- Web frontend / JS / CSS
 
 ### Solved AC Tier
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyc1223)](https://solved.ac/kimyc1223)
-
-  
